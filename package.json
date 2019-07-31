@@ -1,0 +1,15 @@
+{
+  "name": "vijos-remote",
+  "version": "0.0.1",
+  "description": "API interface for Vijos",
+  "main": "lib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "masnn",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "jsdom": "^15.1.1"
+  }
+}
